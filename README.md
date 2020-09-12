@@ -9,6 +9,6 @@ contain tasks and more lists.
 2. Clone this Repo (temporarily)
 3. Run the install shell script for your OS, which will create a ```~/bin``` directory and put
 an executable version of the program there. 
-4. Add the lines ```PATH="~/bin:${PATH}"``` and ```export PATH```
+4. Add the lines ```PATH="~/bin:${PATH}"``` and ```export PATH``` to your ```.bashrc``` or ```.bash_profile``` ...
 5. Now you can delete this cloned Repository, and after restarting your terminal,
 you should be able to use the command ```todocli```
