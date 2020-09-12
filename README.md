@@ -3,7 +3,7 @@
 TodoCli is a Todo App for the terminal which supports nested lists and tasks. Lists can
 contain tasks and more lists.
 
-## Installing on Unix-based systems:
+## Installation:
 
 1. Make sure you have Python 3 installed on your system.
 2. Clone this Repo (temporarily)
