@@ -26,5 +26,5 @@ you should be able to use the command ```todocli```
 
 - Create new task: ```todocli task create School/Maths``` (Now enter title and description)
 - Delete a task: ```todocli task delete School/Maths``` (Now enter title)
-- Edit a task: ```todocli task edit School/Maths {-t / --title / -d / --description / -b / --both}``` (Now enter old & new title/description)
+- Edit a task: ```todocli task edit School/Maths {-t / --title / -d / --description / -td}``` (Now enter old & new title/description)
 - List all tasks in e.g. ```School/Maths```: ```todocli task list School/Maths```
