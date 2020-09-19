@@ -12,7 +12,7 @@ an executable version of the program there.
 4. Add the lines ```PATH="~/bin:${PATH}"``` and ```export PATH``` to your ```.bashrc``` or ```.bash_profile``` ...
 5. Now you can delete this cloned Repository, and after restarting your terminal,
 you should be able to use the command ```todocli```
-6. Before getting started, you need to run ```todocli db path``` to setup the database in ```path```.
+6. Before getting started, you need to run ```todocli setup-db path``` to setup the database in ```path```.
 (I'd recommend using ```~/Library/Application\ Support/todocli/``` on MacOS.)
 
 ## Usage / Examples:
